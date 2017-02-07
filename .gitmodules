@@ -1,0 +1,4 @@
+[submodule "qtcreator"]
+	path = qtcreator
+	url = ../qt-creator
+	branch = master
