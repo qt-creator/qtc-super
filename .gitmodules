@@ -2,3 +2,8 @@
 	path = qtcreator
 	url = ../qt-creator
 	branch = master
+[submodule "fossil"]
+	path = plugins/fossil
+	url = ../plugin-fossil-scm
+	depends = qtcreator
+	branch = master
