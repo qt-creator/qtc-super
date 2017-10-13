@@ -7,3 +7,8 @@
 	url = ../plugin-fossil-scm
 	depends = qtcreator
 	branch = master
+[submodule "haskell"]
+	path = plugins/haskell
+	url = ../plugin-haskell
+	depends = qtcreator
+	branch = master
