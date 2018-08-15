@@ -12,3 +12,8 @@
 	url = ../plugin-haskell
 	depends = qtcreator
 	branch = master
+[submodule "pythonextensions"]
+	path = plugins/pythonextensions
+	url = ../plugin-pythonextensions
+	depends = qtcreator
+	branch = master
