@@ -1,19 +1,19 @@
 [submodule "qtcreator"]
 	path = qtcreator
 	url = ../qt-creator
-	branch = 4.8
+	branch = .
 [submodule "fossil"]
 	path = plugins/fossil
 	url = ../plugin-fossil-scm
 	depends = qtcreator
-	branch = 4.8
+	branch = .
 [submodule "haskell"]
 	path = plugins/haskell
 	url = ../plugin-haskell
 	depends = qtcreator
-	branch = 4.8
+	branch = .
 [submodule "pythonextensions"]
 	path = plugins/pythonextensions
 	url = ../plugin-pythonextensions
 	depends = qtcreator
-	branch = 4.8
+	branch = .
