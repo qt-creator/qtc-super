@@ -3,4 +3,5 @@
 # qtcreator generated files
 *.pro.user*
 *.qbs.user*
+CMakeLists.txt.user*
 
