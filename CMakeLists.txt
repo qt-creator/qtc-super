@@ -19,6 +19,3 @@ function(check_add_subdirectory directory)
     add_subdirectory(${directory})
   endif()
 endfunction()
-
-check_add_subdirectory(plugins/fossil)
-check_add_subdirectory(plugins/haskell)
