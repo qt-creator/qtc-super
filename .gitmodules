@@ -2,16 +2,6 @@
 	path = qtcreator
 	url = ../qt-creator.git
 	branch = .
-[submodule "fossil"]
-	path = plugins/fossil
-	url = ../plugin-fossil-scm.git
-	depends = qtcreator
-	branch = .
-[submodule "haskell"]
-	path = plugins/haskell
-	url = ../plugin-haskell.git
-	depends = qtcreator
-	branch = .
 [submodule "pythonextensions"]
 	path = plugins/pythonextensions
 	url = ../plugin-pythonextensions.git
